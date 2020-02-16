@@ -1,10 +1,11 @@
 Grid the Overgeared Telegram bot
 
-> get and read the newest overgeared chapters on telegram!
+> Read overgeared with Grid here! 
 >
-> future work: use .pdf instead of .txt file
+> [https://t.me/joinchat/AvliaFb4Fb8j_laXKQXlJA](https://t.me/joinchat/AvliaFb4Fb8j_laXKQXlJA)
+>
 >
 >
 > shoutout to Watzon #FennecGang for introducing python-telegram-bot
 >
-> get python-telegram-bot at https://github.com/python-telegram-bot/python-telegram-bot
+> python-telegram-bot at https://github.com/python-telegram-bot/python-telegram-bot
