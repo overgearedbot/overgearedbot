@@ -1,4 +1,4 @@
-Grid the Overgeared Telegram bot
+Grid's Overgeared Telegram bot
 
 > Read overgeared with Grid here! 
 >
